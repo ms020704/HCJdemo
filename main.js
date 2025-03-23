@@ -14,7 +14,7 @@ function reset() {
 }
 
 function showHTML5() {
-  document.getElementById('fig').src = 'image/HTML.png'
+  document.getElementById('fig').src = 'image/html.png'
   document.getElementById('desc').innerHTML =
     '<b>HTML</b>은 구조적 웹문서를 작성하는데 사용하는 마크업 언어이다.'
 }
